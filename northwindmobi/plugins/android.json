@@ -1,0 +1,22 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-ms-azure-mobile-apps": {
+            "PACKAGE_NAME": "com.microsoft.azure.mobileapps.northwindmobi"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.microsoft.azure.mobileapps.northwindmobi"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.microsoft.azure.mobileapps.northwindmobi"
+        }
+    }
+}
